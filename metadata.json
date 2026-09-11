@@ -1,0 +1,6 @@
+{
+  "name": "Mystic Tarot",
+  "description": "A modern, production-quality AI-powered tarot reading application offering insightful card spreads, interactive 3D card drawing, and interpretations by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
